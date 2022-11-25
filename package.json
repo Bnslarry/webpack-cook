@@ -1,0 +1,16 @@
+{
+  "name": "webpack-cook",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "wp --mode production"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Bnslarry/webpack-cook.git",
+  "author": "glow <yuhui.liu@shopee.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mini-html-webpack-plugin": "^3.1.3",
+    "webpack": "^5.75.0",
+    "webpack-nano": "^1.1.1"
+  }
+}
